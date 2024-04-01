@@ -21,14 +21,12 @@
 
 ## Education
 
-🎓 Bachelor of Technology in Electronics and Communication  
-- The LNM Institute of Information Technology, Jaipur, India  
+🎓 B-Tech in ECE - LNM Institute of Information Technology, Jaipur, India  
 
-🎓 Class 12th - CBSE (84.2/100)  
-- Aryaman Vikram Birla Institute Of Learning, Haldwani, Uttarakhand  
+🎓 Class 12th - CBSE (84.2/100) - Aryaman Vikram Birla Institute Of Learning, Haldwani, Uttarakhand  
 
-🎓 Class 10th - CBSE (9/10)  
-- Aryaman Vikram Birla Institute Of Learning, Haldwani, Uttarakhand  
+🎓 Class 10th - CBSE (9/10) - Aryaman Vikram Birla Institute Of Learning, Haldwani, Uttarakhand  
+
 
 ---
 
