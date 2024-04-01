@@ -2,7 +2,7 @@
 
 👨‍💻 Software Developer | 🌐 Jaipur, Rajasthan, India  
 📧 shubhankarbhatt27@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/shubhankar-bhatt)
+🔗 [LinkedIn](https://linkedin.com/in/bhattshubhankar)
 
 ## Technical Skills
 
