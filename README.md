@@ -11,6 +11,12 @@
 
 ---
 
+###
+
+<img src="https://raw.githubusercontent.com/haupt-pascal/haupt-pascal/output/snake.svg" alt="Snake animation" />
+
+###
+
 ## Achievements
 
 🎖️ Knight Badge @LeetCode (Contest rating - 1900)  
