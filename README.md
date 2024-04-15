@@ -4,18 +4,18 @@
 📧 shubhankarbhatt27@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/bhattshubhankar)
 
+###
+
+<img src="https://raw.githubusercontent.com/haupt-pascal/haupt-pascal/output/snake.svg" alt="Snake animation" />
+
+###
+
 ## Technical Skills
 
 📚 Languages: C++, SQL, Javascript  
 💻 Technologies: React.js, Django, Node.js, Express.js  
 
 ---
-
-###
-
-<img src="https://raw.githubusercontent.com/haupt-pascal/haupt-pascal/output/snake.svg" alt="Snake animation" />
-
-###
 
 ## Achievements
 
