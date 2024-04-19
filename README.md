@@ -12,8 +12,8 @@
 
 ## Technical Skills
 
-📚 Languages: C++, SQL, Javascript  
-💻 Technologies: React.js, Django, Node.js, Express.js  
+📚 Languages: C++, Typescript, Javascript, SQL
+💻 Technologies: React.js, Next.js, Django, Node.js, Express.js
 
 ---
 
