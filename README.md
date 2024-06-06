@@ -14,7 +14,7 @@
 
 📚 Languages: C++, Typescript, Javascript, SQL
 <br/>
-💻 Technologies: React.js, Next.js, Django, Node.js, Express.js
+💻 Technologies: React.js, TailwindCSS, Redux, Next.js, Django, Node.js, Express.js
 
 ---
 
