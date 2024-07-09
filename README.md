@@ -12,9 +12,9 @@
 
 ## Technical Skills
 
-📚 Languages: C++, Typescript, Javascript, SQL
+📚 Languages: C++, Javascript, SQL, HTML, CSS
 <br/>
-💻 Technologies: React.js, TailwindCSS, Redux, Next.js, Django, Node.js, Express.js
+💻 Technologies: React.js, TailwindCSS, Redux, Django, Node.js, Express.js, MongoDB.
 
 ---
 
