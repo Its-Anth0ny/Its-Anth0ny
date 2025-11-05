@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Shubhankar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-👨‍💻 Software Developer | 🌐 Jaipur, Rajasthan, India  
+👨‍💻 Software Developer | 🌐 Pune, Maharashtra, India  
 📧 shubhankarbhatt27@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/bhattshubhankar)
 
